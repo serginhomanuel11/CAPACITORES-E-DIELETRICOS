@@ -266,4 +266,3 @@ $$V = \frac {V_{0}}{K}$$
   Quando o dielétrico está presente, a diferença de potencial para uma carga fixa $Q$ é reduzida por um fator igual a $K$. A constante dielétrica $K$ é um número puro. Como $C$ é sempre maior que $C_{0}$, $K$ é sempre maior que 1.
   </p>
 
-
