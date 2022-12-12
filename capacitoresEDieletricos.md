@@ -239,7 +239,7 @@ dielétrica é apenas ligeiramente maior que a do vácuo.
   </p>
 
   <p align="justify">
-  A capacitância original $C0$ é dada por: 
+  A capacitância original $C_{0}$ é dada por: 
   </p>
   
 $$C_{0} = \frac {Q}{V_{0}}$$
